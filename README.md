@@ -40,11 +40,14 @@ https://dev-ujjawal.github.io/tic-tac-toe-game/
 ## Project Structure
 
 tic-tac-toe/
-│── assets
-│── index.html
-│── style.css
-│── app.js
-│── README.md
+├── assets/
+│ ├── screenshot-1.png
+│ ├── screenshot-win.png
+│ └── screenshot-draw.png
+├── index.html
+├── style.css
+├── app.js
+└── README.md
 
 ---
 
