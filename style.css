@@ -1,0 +1,72 @@
+/* tic tac toe game css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #2c2e31;
+    text-align: center;
+    color: #e2b714;
+}
+
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+
+}
+
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    font-size: 8vmin;
+    box-shadow: 0 0 1rem rgb(24, 26, 28);
+    color: #000000;
+    cursor: pointer;
+    background-color: rgb(211, 209, 209);
+}
+
+.box:hover{
+    background-color: #e2b714;
+}
+
+.resetBtn {
+    height: 4vmin;
+    width: 18vmin;
+    background-color: #e2b714;
+    color: #2b2b2c;
+    font-weight: bold;
+    border: none;
+    border-radius: .3rem;
+}
+.resetBtn:hover{
+    background-color: #7f7f81;
+    cursor: pointer;
+}
+
+.msg-container{
+    height: 10vmin;
+}
+
+.msg-container .msg {
+    font-size: 8vmin;
+    font-weight: bold;
+}
+
+.hide {
+    display: none;
+}
