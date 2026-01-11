@@ -59,20 +59,23 @@ No additional setup is required.
 
 ## Game Screenshots
 
-### Game Start
-![Start](assets/Screenshot-1.png)
+## Game Screenshots
 
-### Winning State
-![Win](assets/Screenshot-win.png)
-
-### Draw State
-![Draw](assets/Screenshot-draw.png)
-
+### 🟢 Game Start
 <p align="center">
-  <img src="assets/Screenshot-1.png" width="220">
-  <img src="assets/Screenshot-win.png" width="220">
-  <img src="assets/Screenshot-draw.png" width="220">
+  <img src="assets/Screenshot-1.png" width="300" />
 </p>
+
+### 🏆 Winning State
+<p align="center">
+  <img src="assets/Screenshot-win.png" width="300" />
+</p>
+
+### 🤝 Draw State
+<p align="center">
+  <img src="assets/Screenshot-draw.png" width="300" />
+</p>
+
 
 ## Future Improvements
 
