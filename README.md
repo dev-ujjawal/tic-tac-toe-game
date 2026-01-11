@@ -59,9 +59,9 @@ No additional setup is required.
 
 ## Screenshot
 
-![Tic Tac Toe Game Screenshot](assets/screenshot 1.png)
-![Tic Tac Toe Game Screenshot](assets/screenshot win.png)
-![Tic Tac Toe Game Screenshot](assets/screenshot draw.png)
+![Tic Tac Toe Game Screenshot](assets/screenshot-1.png)
+![Tic Tac Toe Game Screenshot](assets/screenshot-win.png)
+![Tic Tac Toe Game Screenshot](assets/screenshot-draw.png)
 
 
 
