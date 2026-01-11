@@ -57,13 +57,22 @@ No additional setup is required.
 
 ---
 
-## Screenshot
+## Game Screenshots
 
-![Tic Tac Toe Game Screenshot](assets/Screenshot-1.png)
-![Tic Tac Toe Game Screenshot](assets/Screenshot-win.png)
-![Tic Tac Toe Game Screenshot](assets/Screenshot-draw.png)
+### Game Start
+![Start](assets/Screenshot-1.png)
 
+### Winning State
+![Win](assets/Screenshot-win.png)
 
+### Draw State
+![Draw](assets/Screenshot-draw.png)
+
+<p align="center">
+  <img src="assets/Screenshot-1.png" width="220">
+  <img src="assets/Screenshot-win.png" width="220">
+  <img src="assets/Screenshot-draw.png" width="220">
+</p>
 
 ## Future Improvements
 
