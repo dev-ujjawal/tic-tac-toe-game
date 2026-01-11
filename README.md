@@ -47,7 +47,7 @@ tic-tac-toe/
 ## How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/tic-tac-toe-game.git
+   git clone https://github.com/dev-ujjawal/tic-tac-toe-game.git
 
 2. Open the project folder
 
